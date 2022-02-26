@@ -9,7 +9,8 @@ body {
 }
 
 header,
-main {
+main,
+footer {
   width: 100%;
 }
 
